@@ -1,0 +1,99 @@
+id1,american,junior-schooling,m,married,26-35,working,156000-365000,2,above-5,yes,yes,no,two.wheel,own.hous.l,publ.comp,entertainment,edu.sci,IAB11
+id2,pacific,junior-schooling,m,married,18-25,working,55000-155000,2,2-3,yes,no,no,public,own.hous,wrk.comp,entertainment,ent.soc,IAB17
+id3,black,secondary-schooling,f,single,46-55,searching,55000-155000,above-3,3-5,yes,no,yes,four.wheel,rent.hous,mobile,news,edu.sci,IAB12
+id4,latin,secondary-schooling,m,married,18-25,buisness,below 55000,1,3-5,yes,no,yes,public,rent.hous,publ.comp,entertainment,edu.sci,IAB02
+id5,asian,masters,m,widowed,26-35,searching,above 865000,2,3-5,yes,yes,yes,public,own.hous,wrk.comp,work,edu.sci,IAB21
+id6,asian,secondary-schooling,m,divorced,36-45,searching,366000-635000,3,3-5,yes,no,yes,two.wheel,own.hous.l,mobile,entertainment,profession,IAB03
+id7,american,primary-schooling,m,divorced,18-25,working,636000-865000,2,2-3,no,yes,yes,public,rent.hous,mobile,video.cal,others,IAB25
+id8,black,junior-schooling,m,married,18-25,working,55000-155000,1,3-5,yes,yes,yes,two.wheel,own.hous.l,mobile,entertainment,others,IAB25
+id9,american,secondary-schooling,m,widowed,18-25,searching,636000-865000,1,3-5,yes,no,yes,two.wheel,own.hous.l,publ.comp,entertainment,ent.soc,IAB17
+id10,latin,junior-schooling,f,widowed,26-35,searching,below 55000,2,2-3,no,no,yes,public,rent.hous,publ.comp,entertainment,edu.sci,IAB15
+id11,white,primary-schooling,m,married,18-25,working,636000-865000,1,2-3,yes,no,yes,public,own.hous,mobile,entertainment,personal,IAB23
+id12,asian,masters,m,live-in,18-25,working,below 55000,1,3-5,yes,no,yes,public,other,publ.comp,video.cal,ent.soc,IAB17
+id13,american,primary-schooling,f,single,26-35,searching,below 55000,1,above-5,no,no,yes,walk,rent.hous,wrk.comp,work,others,IAB25
+id14,black,primary-schooling,f,divorced,below.18,military,below 55000,above-3,1,yes,yes,yes,public,own.hous.l,mobile,news,profession,IAB03
+id15,black,masters,m,single,26-35,buisness,156000-365000,1,3-5,yes,no,no,public,own.hous.l,publ.comp,entertainment,profession,IAB04
+id16,black,junior-schooling,m,single,below.18,buisness,above 865000,1,2-3,yes,no,yes,two.wheel,own.hous.l,mobile,entertainment,edu.sci,IAB15
+id17,white,junior-schooling,m,widowed,36-45,military,below 55000,2,2-3,yes,no,no,public,own.hous.l,hom.comp,news,others,IAB24
+id18,latin,secondary-schooling,m,married,18-25,buisness,156000-365000,2,3-5,no,yes,yes,two.wheel,own.hous,publ.comp,entertainment,ent.soc,IAB20
+id19,latin,junior-schooling,m,married,36-45,buisness,55000-155000,2,3-5,yes,no,no,two.wheel,own.hous.l,mobile,entertainment,ent.soc,IAB17
+id20,american,primary-schooling,m,single,46-55,none,636000-865000,1,above-5,no,yes,yes,two.wheel,rent.hous,mobile,entertainment,profession,IAB05
+id21,latin,secondary-schooling,f,married,18-25,buisness,366000-635000,1,2-3,no,no,yes,four.wheel,other,mobile,entertainment,personal,IAB17
+id22,pacific,bachelors,f,single,26-35,working,above 865000,1,above-5,no,no,no,public,own.hous,hom.comp,work,others,IAB25
+id23,asian,masters,m,married,18-25,searching,above 865000,1,above-5,yes,no,no,public,own.hous.l,wrk.comp,work,edu.sci,IAB21
+id24,american,no-schooling,m,single,18-25,searching,55000-155000,3,2-3,yes,no,yes,two.wheel,rent.hous,mobile,video.cal,profession,IAB03
+id25,american,secondary-schooling,m,married,18-25,working,above 865000,1,3-5,yes,no,yes,two.wheel,rent.hous,mobile,entertainment,personal,IAB12
+id26,white,no-schooling,m,live-in,18-25,buisness,55000-155000,2,3-5,yes,no,no,public,own.hous,publ.comp,entertainment,edu.sci,IAB11
+id27,asian,secondary-schooling,m,divorced,36-45,military,55000-155000,3,3-5,yes,no,no,walk,rent.hous,mobile,entertainment,edu.sci,IAB02
+id28,white,bachelors,m,single,18-25,working,366000-635000,3,1,yes,no,yes,two.wheel,own.hous,mobile,work,personal,IAB12
+id29,pacific,primary-schooling,f,married,below.18,searching,below 55000,1,2-3,yes,yes,yes,public,own.hous,mobile,news,edu.sci,IAB15
+id30,black,no-schooling,m,widowed,36-45,military,156000-365000,2,3-5,no,yes,yes,two.wheel,rent.hous,wrk.comp,video.cal,personal,IAB17
+id31,white,bachelors,m,divorced,18-25,buisness,55000-155000,3,2-3,no,yes,yes,public,own.hous.l,publ.comp,entertainment,personal,IAB17
+id32,american,primary-schooling,m,married,36-45,working,156000-365000,1,3-5,no,yes,no,public,own.hous,publ.comp,work,ent.soc,IAB18
+id33,latin,secondary-schooling,f,married,above 55,working,366000-635000,3,2-3,yes,yes,yes,walk,rent.hous,wrk.comp,news,personal,IAB12
+id34,latin,bachelors,m,live-in,26-35,military,below 55000,2,2-3,yes,no,no,public,own.hous.l,publ.comp,work,edu.sci,IAB19
+id35,american,doctorates,f,single,36-45,working,636000-865000,1,2-3,no,no,no,walk,rent.hous,publ.comp,news,profession,IAB05
+id36,american,primary-schooling,m,live-in,46-55,military,156000-365000,3,3-5,yes,no,no,four.wheel,other,wrk.comp,entertainment,others,IAB23
+id37,pacific,primary-schooling,m,married,18-25,military,below 55000,1,2-3,yes,yes,yes,two.wheel,own.hous,mobile,video.cal,profession,IAB03
+id38,latin,junior-schooling,m,divorced,18-25,searching,55000-155000,2,above-5,yes,yes,no,two.wheel,own.hous.l,mobile,video.cal,ent.soc,IAB18
+id39,american,primary-schooling,m,divorced,18-25,searching,156000-365000,2,3-5,yes,no,no,four.wheel,own.hous,wrk.comp,work,personal,IAB10
+id40,pacific,bachelors,m,live-in,46-55,working,55000-155000,above-3,above-5,yes,yes,yes,four.wheel,own.hous,mobile,video.cal,ent.soc,IAB20
+id41,pacific,secondary-schooling,m,married,18-25,working,156000-365000,1,2-3,yes,yes,yes,two.wheel,other,mobile,video.cal,edu.sci,IAB11
+id42,american,secondary-schooling,m,married,below.18,buisness,below 55000,1,3-5,yes,no,yes,two.wheel,rent.hous,mobile,entertainment,profession,IAB05
+id43,asian,junior-schooling,m,divorced,18-25,military,156000-365000,2,3-5,no,no,no,two.wheel,rent.hous,mobile,entertainment,personal,IAB10
+id44,black,doctorates,f,single,above 55,military,55000-155000,1,2-3,yes,yes,no,two.wheel,own.hous.l,wrk.comp,entertainment,ent.soc,IAB18
+id45,latin,bachelors,m,married,18-25,buisness,636000-865000,3,2-3,no,yes,no,public,own.hous,hom.comp,entertainment,profession,IAB03
+id46,american,primary-schooling,m,live-in,below.18,buisness,below 55000,2,above-5,yes,no,yes,public,rent.hous,publ.comp,video.cal,ent.soc,IAB18
+id47,asian,primary-schooling,m,widowed,above 55,searching,366000-635000,3,2-3,yes,no,yes,walk,rent.hous,wrk.comp,entertainment,ent.soc,IAB09
+id48,asian,no-schooling,m,married,18-25,buisness,below 55000,2,3-5,yes,yes,yes,public,own.hous,wrk.comp,news,personal,IAB10
+id49,pacific,junior-schooling,m,single,26-35,searching,above 865000,above-3,2-3,yes,no,no,walk,own.hous.l,mobile,entertainment,profession,IAB12
+id50,black,secondary-schooling,m,married,18-25,searching,above 865000,1,3-5,no,no,yes,two.wheel,rent.hous,hom.comp,work,profession,IAB05
+id51,american,masters,m,married,18-25,buisness,below 55000,1,3-5,no,no,yes,two.wheel,own.hous,mobile,entertainment,others,IAB23
+id52,asian,junior-schooling,m,divorced,26-35,searching,55000-155000,2,1,no,yes,yes,public,own.hous,mobile,news,personal,IAB06
+id53,white,primary-schooling,f,married,46-55,buisness,below 55000,1,3-5,yes,yes,yes,four.wheel,own.hous,mobile,video.cal,profession,IAB05
+id54,asian,no-schooling,m,married,36-45,buisness,55000-155000,3,2-3,yes,no,no,public,other,mobile,work,edu.sci,IAB19
+id55,white,bachelors,f,divorced,below.18,searching,156000-365000,1,3-5,no,no,no,two.wheel,own.hous,mobile,video.cal,edu.sci,IAB21
+id56,black,primary-schooling,m,divorced,18-25,working,156000-365000,2,2-3,yes,no,yes,public,own.hous.l,wrk.comp,entertainment,personal,IAB09
+id57,white,no-schooling,f,single,18-25,buisness,55000-155000,1,2-3,yes,no,yes,two.wheel,rent.hous,mobile,entertainment,others,IAB24
+id58,black,primary-schooling,f,married,18-25,buisness,156000-365000,above-3,2-3,yes,yes,yes,four.wheel,own.hous,mobile,entertainment,ent.soc,IAB17
+id59,pacific,secondary-schooling,m,divorced,26-35,none,above 865000,1,1,yes,yes,no,walk,other,mobile,news,profession,IAB12
+id60,american,primary-schooling,m,divorced,46-55,working,55000-155000,1,2-3,yes,no,yes,public,other,mobile,entertainment,others,IAB23
+id61,pacific,doctorates,m,widowed,26-35,searching,55000-155000,2,2-3,yes,no,yes,two.wheel,rent.hous,publ.comp,video.cal,ent.soc,IAB17
+id62,black,primary-schooling,m,single,below.18,buisness,366000-635000,2,2-3,yes,yes,yes,four.wheel,rent.hous,wrk.comp,entertainment,edu.sci,IAB21
+id63,asian,no-schooling,m,married,36-45,working,156000-365000,above-3,3-5,yes,no,yes,public,own.hous,mobile,news,profession,IAB05
+id64,black,doctorates,m,single,18-25,none,55000-155000,2,3-5,yes,yes,no,four.wheel,other,publ.comp,news,personal,IAB06
+id65,white,primary-schooling,m,divorced,26-35,searching,156000-365000,2,2-3,yes,yes,no,two.wheel,own.hous.l,mobile,entertainment,profession,IAB12
+id66,black,bachelors,m,married,18-25,buisness,55000-155000,3,3-5,yes,no,yes,public,own.hous,hom.comp,news,others,IAB23
+id67,asian,primary-schooling,m,married,46-55,working,below 55000,1,above-5,yes,no,no,walk,own.hous.l,publ.comp,work,edu.sci,IAB19
+id68,asian,doctorates,m,widowed,below.18,searching,156000-365000,2,3-5,yes,no,yes,public,rent.hous,mobile,entertainment,others,IAB23
+id69,pacific,secondary-schooling,f,married,26-35,working,below 55000,3,3-5,yes,no,yes,public,other,mobile,video.cal,edu.sci,IAB02
+id70,asian,secondary-schooling,m,single,46-55,none,below 55000,1,1,yes,yes,yes,public,other,mobile,work,personal,IAB09
+id71,pacific,secondary-schooling,m,married,below.18,buisness,55000-155000,1,above-5,yes,no,yes,public,own.hous,wrk.comp,entertainment,profession,IAB12
+id72,asian,secondary-schooling,m,single,26-35,buisness,55000-155000,2,2-3,no,no,no,walk,rent.hous,hom.comp,entertainment,ent.soc,IAB17
+id73,white,primary-schooling,m,single,46-55,working,55000-155000,2,3-5,no,no,yes,public,rent.hous,mobile,news,edu.sci,IAB02
+id74,pacific,doctorates,m,widowed,18-25,military,366000-635000,2,2-3,no,no,yes,walk,rent.hous,wrk.comp,news,personal,IAB07
+id75,pacific,secondary-schooling,m,married,46-55,buisness,636000-865000,2,above-5,yes,yes,no,public,other,publ.comp,work,edu.sci,IAB12
+id76,black,bachelors,m,live-in,36-45,none,156000-365000,2,2-3,yes,yes,no,four.wheel,rent.hous,wrk.comp,work,others,IAB25
+id77,black,bachelors,f,single,26-35,buisness,156000-365000,2,2-3,yes,yes,yes,public,own.hous.l,publ.comp,entertainment,ent.soc,IAB08
+id78,asian,junior-schooling,m,married,18-25,working,156000-365000,3,3-5,yes,no,no,two.wheel,rent.hous,mobile,entertainment,others,IAB25
+id79,asian,masters,m,single,26-35,working,156000-365000,2,above-5,no,no,yes,public,rent.hous,mobile,news,personal,IAB09
+id80,latin,doctorates,m,divorced,below.18,buisness,below 55000,1,2-3,no,no,no,walk,rent.hous,mobile,video.cal,ent.soc,IAB20
+id81,asian,bachelors,m,single,below.18,none,636000-865000,1,3-5,yes,yes,no,public,other,mobile,entertainment,profession,IAB03
+id82,pacific,secondary-schooling,m,married,26-35,searching,55000-155000,1,2-3,yes,no,yes,public,rent.hous,wrk.comp,video.cal,profession,IAB05
+id83,asian,secondary-schooling,f,divorced,36-45,military,55000-155000,1,3-5,yes,yes,no,four.wheel,own.hous.l,wrk.comp,work,profession,IAB03
+id84,pacific,primary-schooling,m,live-in,below.18,none,55000-155000,2,3-5,yes,no,no,two.wheel,rent.hous,wrk.comp,video.cal,personal,IAB12
+id85,latin,primary-schooling,f,single,36-45,military,55000-155000,1,2-3,yes,no,yes,two.wheel,own.hous,mobile,news,profession,IAB03
+id86,asian,junior-schooling,m,single,18-25,buisness,55000-155000,1,3-5,yes,yes,no,public,rent.hous,publ.comp,video.cal,others,IAB24
+id87,asian,secondary-schooling,m,married,46-55,searching,55000-155000,2,1,no,yes,yes,four.wheel,rent.hous,hom.comp,work,others,IAB23
+id88,pacific,no-schooling,m,single,46-55,searching,55000-155000,2,3-5,yes,no,yes,public,own.hous.l,wrk.comp,news,edu.sci,IAB21
+id89,pacific,bachelors,m,single,18-25,buisness,636000-865000,2,3-5,yes,no,yes,walk,own.hous.l,publ.comp,entertainment,edu.sci,IAB11
+id90,asian,primary-schooling,m,single,above 55,military,below 55000,1,2-3,yes,no,no,two.wheel,rent.hous,mobile,entertainment,profession,IAB03
+id91,american,primary-schooling,m,live-in,26-35,searching,55000-155000,1,3-5,yes,no,no,public,own.hous.l,mobile,video.cal,others,IAB23
+id92,asian,junior-schooling,m,married,36-45,buisness,156000-365000,2,3-5,yes,no,yes,public,rent.hous,wrk.comp,video.cal,personal,IAB12
+id93,asian,bachelors,m,single,18-25,buisness,156000-365000,3,2-3,yes,yes,no,walk,own.hous,mobile,entertainment,ent.soc,IAB17
+id94,black,masters,m,divorced,below.18,military,366000-635000,1,3-5,no,no,no,public,rent.hous,wrk.comp,work,ent.soc,IAB08
+id95,white,masters,f,single,18-25,none,156000-365000,1,2-3,yes,no,no,public,rent.hous,mobile,work,personal,IAB10
+id96,pacific,bachelors,m,married,26-35,buisness,636000-865000,1,2-3,yes,yes,no,two.wheel,rent.hous,publ.comp,entertainment,personal,IAB08
+id97,white,primary-schooling,m,single,26-35,searching,55000-155000,2,3-5,no,no,no,four.wheel,own.hous.l,mobile,entertainment,edu.sci,IAB15
+id98,american,primary-schooling,m,married,26-35,working,55000-155000,2,3-5,yes,no,yes,walk,other,wrk.comp,video.cal,ent.soc,IAB08
+id99,asian,primary-schooling,m,married,26-35,working,below 55000,above-3,3-5,yes,yes,yes,public,rent.hous,mobile,video.cal,edu.sci,IAB02

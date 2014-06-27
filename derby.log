@@ -1,0 +1,46 @@
+----------------------------------------------------------------
+2014-06-26 12:49:15.693 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-0146-d839-09d3-000008d6b9e8
+on database directory /home/sahil/Desktop/azhar/metastore_db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2014-06-26 12:55:07.070 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance f84e422f-0146-d839-09d3-000008d6b9e8
+on database directory /home/sahil/Desktop/azhar/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2014-06-26 12:55:18.561 GMT:
+Shutting down instance f84e422f-0146-d839-09d3-000008d6b9e8
+----------------------------------------------------------------
+----------------------------------------------------------------
+2014-06-26 12:55:31.977 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance 69a802c0-0146-d839-09d3-000008d6b9e8
+on database directory /home/sahil/Desktop/azhar/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2014-06-26 12:55:32.172 GMT:
+Shutting down instance 69a802c0-0146-d839-09d3-000008d6b9e8
+----------------------------------------------------------------
+----------------------------------------------------------------
+2014-06-26 13:54:36.006 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance 917fc3a6-0146-d839-09d3-000008d6b9e8
+on database directory /home/sahil/Desktop/azhar/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2014-06-26 13:54:36.368 GMT:
+Shutting down instance 917fc3a6-0146-d839-09d3-000008d6b9e8
+----------------------------------------------------------------
+----------------------------------------------------------------
+2014-06-26 13:54:54.538 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance f52743aa-0146-d839-09d3-000008d6b9e8
+on database directory /home/sahil/Desktop/azhar/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2014-06-26 13:54:55.390 GMT:
+Shutting down instance f52743aa-0146-d839-09d3-000008d6b9e8
+----------------------------------------------------------------
