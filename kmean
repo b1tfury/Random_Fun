@@ -1,0 +1,10 @@
+
+import org.apache.spark.mllib.clustering.KMeans 
+import org.apache.spark.mllib.linalg.Vectors
+val data = sc.textFile("hdfs:///user/sahil/output/part-m-00000")
+val parsedData = data.map(s => Vectors.dense(s.split(',').map(_.toDouble)))
+val numIterations = 1
+val numClusters = 3 
+val clusters = KMeans.train(parsedData, numClusters, numIterations) 
+val labels = clusters.predict(parsedData) 
+labels.collect()
